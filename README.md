@@ -11,7 +11,9 @@ I am Electrical Engineer with a Master's Degree in Electrical Power System, I am
 
 ## You can contact me here:
 [<img align="left" alt="Raj Kapadia | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/rajkkapadia/)
-[<img align="left" alt="c17hawke | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />](https://www.youtube.com/channel/UCOT01XvBSj12xQsANtTeAcQ)
+[<img align="left" alt="c17hawke | YouTube" width="30px" src="https://img.icons8.com/doodle/48/000000/youtube-play--v2.png" />](https://www.youtube.com/channel/UCOT01XvBSj12xQsANtTeAcQ)
+[<img align="left" alt="c17hawke | YouTube" width="30px" src="https://img.icons8.com/color/48/000000/fiverr.png" />](https://www.fiverr.com/rajkkapadia)
+[<img align="left" alt="c17hawke | YouTube" width="30px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-filled-tal-revivo.png" />](https://www.upwork.com/freelancers/~0176aeacfcff7f1fc2)
 <br>
 
 ## My streak
