@@ -9,6 +9,9 @@ I am Electrical Engineer with a Master's Degree in Electrical Power System, I am
 * RESTFul API development Python+Falsk and NodeJS+Express
 * Machine Learning projects
 
+![GitHub User's stars](https://img.shields.io/github/stars/RajKKapadia?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/RajKKapadia?style=for-the-badge)
+
 ## Buy me a coffee
 [☕](https://www.buymeacoffee.com/rajkkapadia)
 
