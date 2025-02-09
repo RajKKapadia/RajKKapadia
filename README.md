@@ -12,6 +12,9 @@ I am Electrical Engineer with a Master's Degree in Electrical Power System, I am
 ![GitHub User's stars](https://img.shields.io/github/stars/RajKKapadia?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/RajKKapadia?style=for-the-badge)
 
+## Portfolio Website
+[Visit my site](https://www.rajkapadia.com/)
+
 ## Buy me a coffee
 [☕](https://www.buymeacoffee.com/rajkkapadia)
 
