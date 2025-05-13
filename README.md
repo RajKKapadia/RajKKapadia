@@ -15,7 +15,9 @@ I am Electrical Engineer with a Master's Degree in Electrical Power System, I am
 ![GitHub followers](https://img.shields.io/github/followers/RajKKapadia?style=for-the-badge)
 
 ## Portfolio Website
-[Visit my portfolio website](https://www.rajkapadia.com/)
+<a href="https://www.rajkapadia.com" target="_blank">
+  Visit my portfolio website
+</a>
 
 ## You can contact me here:
 [<img align="left" alt="Raj Kapadia | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/rajkkapadia/)
