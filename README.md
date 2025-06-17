@@ -29,6 +29,8 @@ I am Electrical Engineer with a Master's Degree in Electrical Power System, I am
 <br>
 <br>
 
+## Tech Stack
+
 ```mermaid
 mindmap
   root((My Skills))
