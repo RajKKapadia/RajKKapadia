@@ -3,10 +3,11 @@
 I am Electrical Engineer with a Master's Degree in Electrical Power System, I am here for coding. I love playing guitar. Fulltime freelancer.
 
 ## My interests are:
-* Agents development (LangGraph, Openai Agent SDK, Google ADK)
+* AI Agents development (LangGraph, Openai Agent SDK, Google ADK)
 * Large Language Models
 * Chatbot development using Dialogflow CX/ES, RASA
-* RESTFul API development Python (Falsk, FastAPI) and NodeJS+Express (Typescript, Javascript)
+* RESTful API development Python (Falsk, FastAPI), NodeJS+Express (Typescript, Javascript) and Go (Gin, Ent)
+* Fullstack application development using Nextjs, Typescript, Shadcn, TailwindCSS
 * Computer Vision, Natural Language Processing, and Machine Learning projects
 
 <br>
@@ -26,6 +27,32 @@ I am Electrical Engineer with a Master's Degree in Electrical Power System, I am
 [<img align="left" alt="c17hawke | YouTube" width="30px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-filled-tal-revivo.png" />](https://www.upwork.com/freelancers/~0176aeacfcff7f1fc2)
 
 <br>
+<br>
+
+```mermaid
+mindmap
+  root((My Skills))
+    Core Programming Languages
+      Python
+      JavaScript/Typescript
+      Go
+    Chatbot/AI Agent Development
+      Google Dialogflow CX/ES
+      OpenAI Agent SDK
+      Google ADK
+      LangGraph
+    Cloud Platforms
+      Google Cloud
+      AWS
+    AI/ML
+      LLMs
+      Generative AI
+      RAG
+      Computer Vision
+      Natural Language Processing
+    DevOps
+      Docker
+```
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajKKapadia" alt="RajKKapadia" /></p>
