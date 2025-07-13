@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I am Raj Kapadia</h1>
 
+<p align="center">
+  <img src="assets/profile-pic.png" alt="Profile Picture" width="150" height="150"/>
+  <br>
+  <h3 align="center">Electrical Engineer & Fullstack Developer</h3>
+</p>
+
 I am Electrical Engineer with a Master's Degree in Electrical Power System, I am here for coding. I love playing guitar. Fulltime freelancer.
 
 ## My interests are:
@@ -57,7 +63,7 @@ mindmap
 ```
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajKKapadia" alt="RajKKapadia" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RajKKapadia)](https://git.io/streak-stats)
 
 <br>
 
