@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I am Raj Kapadia</h1>
 
 <p align="center">
-  <img src="/assets/profile.jpeg" alt="Profile Picture" width="150" height="150"/>
+  <img src="assets/profile.jpeg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
   <br>
   <h3 align="center">Electrical Engineer & Fullstack Developer</h3>
 </p>
 
-I am Electrical Engineer with a Master's Degree in Electrical Power System, I am here for coding. I love playing guitar. Fulltime freelancer.
+I am an Electrical Engineer with a Master's Degree in Electrical Power System, passionate about coding. I love playing guitar and am a full-time freelancer.
 
 ## My interests are:
 * AI Agents development (LangGraph, Openai Agent SDK, Google ADK)
 * Large Language Models
 * Chatbot development using Dialogflow CX/ES, RASA
-* RESTful API development Python (Falsk, FastAPI), NodeJS+Express (Typescript, Javascript) and Go (Gin, Ent)
+* RESTful API development Python (Flask, FastAPI), NodeJS+Express (Typescript, Javascript) and Go (Gin, Ent)
 * Fullstack application development using Nextjs, Typescript, Shadcn, TailwindCSS
 * Computer Vision, Natural Language Processing, and Machine Learning projects
 
@@ -29,8 +29,8 @@ I am Electrical Engineer with a Master's Degree in Electrical Power System, I am
 ## You can contact me here:
 [<img align="left" alt="Raj Kapadia | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/rajkkapadia/)
 [<img align="left" alt="c17hawke | YouTube" width="30px" src="https://img.icons8.com/doodle/48/000000/youtube-play--v2.png" />](https://www.youtube.com/channel/UCOT01XvBSj12xQsANtTeAcQ)
-[<img align="left" alt="c17hawke | YouTube" width="30px" src="https://img.icons8.com/color/48/000000/fiverr.png" />](https://www.fiverr.com/rajkkapadia)
-[<img align="left" alt="c17hawke | YouTube" width="30px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-filled-tal-revivo.png" />](https://www.upwork.com/freelancers/~0176aeacfcff7f1fc2)
+[<img align="left" alt="Raj Kapadia | Fiverr" width="30px" src="https://img.icons8.com/color/48/000000/fiverr.png" />](https://www.fiverr.com/rajkkapadia)
+[<img align="left" alt="Raj Kapadia | Upwork" width="30px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-filled-tal-revivo.png" />](https://www.upwork.com/freelancers/~0176aeacfcff7f1fc2)
 
 <br>
 <br>
@@ -67,7 +67,7 @@ mindmap
 
 <br>
 
-<a href="">
+<a href="https://github.com/RajKKapadia">
   <img src="https://github-readme-stats.vercel.app/api?username=RajKKapadia&hide=contribs,prs,issues" alt="Raj's GitHub stats" />
 </a>
 
