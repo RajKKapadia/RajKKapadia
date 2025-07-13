@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Raj Kapadia</h1>
 
 <p align="center">
-  <img src="assets/profile-pic.png" alt="Profile Picture" width="150" height="150"/>
+  <img src="/assets/profile.jpeg" alt="Profile Picture" width="150" height="150"/>
   <br>
   <h3 align="center">Electrical Engineer & Fullstack Developer</h3>
 </p>
