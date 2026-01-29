@@ -12,8 +12,9 @@
 I'm a passionate AI/ML engineer and full-stack developer with **7+ years of experience** in building cutting-edge AI solutions. My expertise spans across **LLM fine-tuning and inference**, **AI Agent development**, and end-to-end application development. With a strong background in both academia (former Assistant Professor) and industry, I bring a unique perspective to solving complex technical challenges.
 
 **Key Highlights:**
+- 🤖 AI Agents using OpenAI Agents SDK, Google ADK, LangGraph
 - 🤖 Specialized in LLM inference, training, and application development
-- 🎯 Built **100+ chatbots** on Google Dialogflow ES/CX for clients worldwide
+- 🎯 Built **100+ chatbots** on Google Dialogflow ES/CX/CA for clients worldwide
 - 👥 Led AI/ML teams as Team Lead at Let's Enkindle (2023-2025)
 - 🎓 Former Assistant Professor teaching Electrical Engineering
 - 📹 Part-time YouTuber creating content on AI/ML, NLP, and LLMs
