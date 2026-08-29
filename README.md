@@ -1,211 +1,116 @@
-<h1 align="center">Hi 👋, I am Raj Kapadia</h1>
+<div align="center">
 
-<p align="center">
-  <img src="assets/profile.jpeg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
-  <br>
-  <h3 align="center">AI/ML Engineer | LLM Specialist | Full-Stack Developer</h3>
-  <p align="center"><i>Fulltime Freelancer with 7+ years of IT industry and freelance experience</i></p>
-</p>
+<img src="assets/profile.jpeg" alt="Raj Kapadia" width="144" height="144" />
 
-### About Me
+# Raj Kapadia
 
-I'm a passionate AI/ML engineer and full-stack developer with **7+ years of experience** in building cutting-edge AI solutions. My expertise spans across **LLM fine-tuning and inference**, **AI Agent development**, and end-to-end application development. With a strong background in both academia (former Assistant Professor) and industry, I bring a unique perspective to solving complex technical challenges.
+### AI Agent & Applied LLM Engineer · Founder of TrishiAI · Creator of Calorie Buddy AI
 
-**Key Highlights:**
-- 🤖 AI Agents using OpenAI Agents SDK, Google ADK, LangGraph
-- 🤖 Specialized in LLM inference, training, and application development
-- 🎯 Built **100+ chatbots** on Google Dialogflow ES/CX/CA for clients worldwide
-- 👥 Led AI/ML teams as Team Lead at Let's Enkindle (2023-2025)
-- 🎓 Former Assistant Professor teaching Electrical Engineering
-- 📹 Part-time YouTuber creating content on AI/ML, NLP, and LLMs
-- 🌟 Top-rated freelancer on Fiverr and Upwork
+I build production AI agents, conversational systems, and full-stack AI products with Python, TypeScript, OpenAI, LangGraph, FastAPI, PostgreSQL, and Docker.
 
----
+[![Personal Website](https://img.shields.io/badge/Personal_Website-rajkapadia.com-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajkapadia.com)
+[![TrishiAI](https://img.shields.io/badge/TrishiAI-AI_Agent_Company-1d4ed8?style=for-the-badge&logo=openai&logoColor=white)](https://trishiai.com)
+[![Calorie Buddy AI](https://img.shields.io/badge/Calorie_Buddy_AI-Live_Product-16a34a?style=for-the-badge&logo=telegram&logoColor=white)](https://caloriebuddy.trishiai.com)
 
-## 💼 Professional Experience
+[![GitHub](https://img.shields.io/badge/GitHub-RajKKapadia-181717?style=flat-square&logo=github)](https://github.com/RajKKapadia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajkkapadia-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rajkkapadia/)
+[![X](https://img.shields.io/badge/X-@RaajKapadia-000000?style=flat-square&logo=x)](https://x.com/RaajKapadia)
+[![YouTube](https://img.shields.io/badge/YouTube-@rajkkapadia-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCOT01XvBSj12xQsANtTeAcQ)
 
-### Team Lead AI & ML | Let's Enkindle
-**September 2023 – April 2025**
-- Led a team of 5 developers in building end-to-end AI/ML/DL products
-- Developed **Text-to-SQL application** powered by LLM and NLP, connected to WhatsApp for real-time database queries in natural language
-- Created **LLM fine-tuning and inference pipelines** for production use
-- Built **image similarity search engine** for tile manufacturer with large-scale database
+</div>
 
-### Lead AI & ML Developer | The Other Fruit/Nes Tech Ltd
-**January 2022 – August 2023**
-- Led team of 3 developers in developing innovative AI/ML solutions
-- Developed **image similarity search engine** with auto-scraping and comparative generation using TensorFlow, Elastic, and OpenCV
-- Built **face recognition biometric authentication** system using dlib
-- Created **voice-as-password** two-factor authentication system
-- Developed **toxic comment classifier** using PyTorch
-- Built full-stack SaaS platforms using NextJS, ShadCN, TailwindCSS, Drizzle, and PostgreSQL
+## What I am building
 
----
+### [Calorie Buddy AI](https://caloriebuddy.trishiai.com)
 
-## 🎯 Core Expertise
+**Creator and lead developer** of a Telegram-first nutrition and fitness product that turns everyday conversations into useful tracking.
 
-* 🤖 **AI Agents Development** - LangGraph, OpenAI Agent SDK, Google ADK
-* 🧠 **Large Language Models** - Fine-tuning, Inference, Application Development
-* 💬 **Chatbot Development** - Dialogflow CX/ES, RASA
-* 🔌 **API Development** - Python (Flask, FastAPI), NodeJS+Express (TypeScript, JavaScript), Go (Gin, Ent)
-* 🌐 **Fullstack Development** - NextJS, React, TypeScript, ShadCN, TailwindCSS
-* 🖼️ **Computer Vision** - Image Classification, Object Detection, Image Search
-* 📝 **Natural Language Processing** - Text Classification, NLP Pipelines
-* ☁️ **Cloud Platforms** - GCP, AWS
+- Log meals through text, food photos, and voice notes.
+- Track workouts from messages and exercise-summary screenshots.
+- Review AI estimates before anything is saved.
+- Follow calories, macros, weight, daily progress, and weekly or monthly summaries.
+- Configure optional reminders that arrive in the user's local timezone.
+- Operate the product through a TypeScript monorepo with a Telegram bot, background workers, public Next.js site, protected admin dashboard, PostgreSQL, Redis, and Docker.
 
----
+[Explore the product](https://caloriebuddy.trishiai.com) · [Open the Telegram bot](https://t.me/CalorieBuddyAI_Bot)
 
-## 🚀 Featured Projects
+### [TrishiAI](https://trishiai.com)
 
-### LLM-Powered Applications
-- **Text-to-SQL WhatsApp Bot** - Natural language database queries via WhatsApp
-- **LLM Fine-tuning Pipeline** - Custom model training and deployment system
-- **AI Agent Systems** - Complex task automation using LLMs
+I founded TrishiAI to help companies design and ship AI agents and conversational products for real operational workflows. The work spans agent architecture, retrieval, tools, guardrails, evaluations, Google conversational platforms, integrations, and production delivery.
 
-### Computer Vision
-- **Image Similarity Search Engine** - Large-scale image retrieval with auto-scraping
-- **Face Recognition System** - Biometric authentication using deep learning
-- **Object Detection Pipeline** - End-to-end training and deployment
+[Explore TrishiAI](https://trishiai.com) · [View my consulting portfolio](https://rajkapadia.com)
 
-### NLP & Text Analysis
-- **Toxic Comment Classifier** - Content moderation using PyTorch
-- **Voice Authentication** - Voice-as-password 2FA system
+## Selected engineering work
 
-### Fullstack Applications
-- **SaaS Platforms** - Production-ready applications with NextJS stack
-- **100+ Dialogflow Chatbots** - Custom conversational AI solutions
+### [YouTube Animation Generator](https://github.com/RajKKapadia/youtube-animation-generator)
 
----
+A TypeScript and Remotion CLI for grounded narrated videos and editor-ready animation overlays. It combines structured planning, optional cited research, local voice synthesis, source-backed charts, deterministic media handling, and native 16:9 and 9:16 rendering.
 
-## 🎓 Freelance Success
+`TypeScript` `Remotion` `OpenAI` `Structured Outputs` `Local TTS`
 
-With a strong presence on **Fiverr** and **Upwork**, I've successfully delivered **100+ Google Dialogflow ES/CX chatbot projects** to clients worldwide, using NodeJS and Python backends. My work spans various industries and use cases, from customer support to complex conversational AI systems.
+### [AI Invoice Processing Backend](https://github.com/RajKKapadia/ai-invoice-processing-backend)
 
-<br>
+A multimodal invoice workflow with deterministic financial validation, durable LangGraph checkpoints, background processing, and human approval or correction. The model extracts data; application rules decide whether an invoice is safe to auto-approve.
 
----
+`Python` `FastAPI` `LangGraph` `Celery` `PostgreSQL` `MinIO`
 
-## 📫 Connect With Me
+### [YouTube AI Knowledge Base](https://github.com/RajKKapadia/youtube-ai-knowledge-base)
 
-<p align="left">
-  <a href="https://www.rajkapadia.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rajkkapadia/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCOT01XvBSj12xQsANtTeAcQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.fiverr.com/rajkkapadia" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~0176aeacfcff7f1fc2" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-  </a>
-  <a href="mailto:raajforyou@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+A Dockerized ingestion and retrieval backend that transcribes YouTube videos locally, indexes timestamped chunks, and returns grounded search results or answers with direct source links.
 
----
+`Python` `FastAPI` `Celery` `Whisper` `Qdrant` `PostgreSQL`
 
-## 🛠️ Tech Stack
+### [Same Agent in Three Frameworks](https://github.com/RajKKapadia/LangGraph-vs-Google-ADK-vs-OpenAI-Agents-SDK)
 
-```mermaid
-mindmap
-  root((My Skills))
-    Programming Languages
-      Python
-      JavaScript/TypeScript
-      Go
-    LLM & AI Agents
-      OpenAI Agent SDK
-      Google ADK
-      LangGraph
-      Fine-tuning
-      Inference
-      RAG
-    AI/ML/DL Frameworks
-      TensorFlow
-      PyTorch
-      Scikit-learn
-      OpenCV
-      dlib
-    Chatbot Development
-      Google Dialogflow CX/ES
-      RASA
-      Custom NLP Bots
-    Backend Development
-      Flask/FastAPI
-      NodeJS+Express
-      Go Gin/Ent
-      RESTful APIs
-    Frontend Development
-      React TypeScript
-      NextJS App Router
-      ShadCN UI
-      TailwindCSS
-    Databases & Search
-      PostgreSQL
-      Elasticsearch
-      Vector Databases
-      Drizzle ORM
-    Cloud & DevOps
-      Google Cloud Platform
-      AWS
-      Docker
-    Specialized Skills
-      Computer Vision
-      NLP
-      Image Classification
-      Object Detection
-      Voice Recognition
-```
+The same task-manager agent implemented with OpenAI Agents SDK, LangGraph, and Google ADK while sharing one tool layer and task store. This makes the orchestration differences concrete and comparable.
 
----
+`OpenAI Agents SDK` `LangGraph` `Google ADK` `Python`
 
-## 📊 GitHub Stats
+### [AI Agent Platform](https://github.com/RajKKapadia/ai-agent-platform)
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/RajKKapadia?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/followers/RajKKapadia?style=for-the-badge&logo=github&color=blue" alt="GitHub Followers"/>
-</p>
+A full-stack platform for creating and operating AI agents with RAG, MCP tool integrations, encrypted credentials, user and admin applications, and a PostgreSQL-backed runtime.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RajKKapadia&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
+`TypeScript` `Next.js` `Express` `MCP` `PostgreSQL` `Turborepo`
 
----
+### [WhatsApp + Google Conversational Agents](https://github.com/RajKKapadia/Google-Conversational-Agents-WhatsApp-Python)
 
-## 📺 YouTube Content
+A FastAPI webhook system connecting WhatsApp with Google Conversational Agents and Gemini. Redis-backed background processing lets Meta webhooks return immediately while conversational work continues safely.
 
-I regularly share tutorials and insights on:
-- Google Dialogflow ES/CX
-- Large Language Models (LLMs)
-- Machine Learning & Deep Learning
-- Natural Language Processing
-- AI/ML Project Development
-- API Development
+`Python` `FastAPI` `WhatsApp` `Dialogflow CX` `Gemini` `Redis`
 
-[Subscribe to my YouTube channel](https://www.youtube.com/channel/UCOT01XvBSj12xQsANtTeAcQ) to stay updated with the latest content!
+## Experience and proof
 
----
+| | |
+|---|---|
+| **7+ years** | Building production software and AI systems |
+| **100+ chatbots** | Delivered across Dialogflow ES and CX for clients worldwide |
+| **5 developers led** | AI/ML product delivery across LLM, NLP, and computer-vision systems |
+| **1.2K+ students** | Applied chatbot courses and practical AI education |
 
-## 🎓 Education
+- Former AI/ML Team Lead at Let's Enkindle, leading end-to-end LLM, text-to-SQL, image-search, and deep-learning delivery.
+- Former Assistant Professor with more than six years of teaching experience.
+- Independent consultant delivering AI agents, chatbots, APIs, automations, and full-stack products for global clients.
 
-**Master of Engineering** - Power System (CPI: 8.3)
-*Sankalchand Patel College of Engineering, Visnagar, Gujarat* | 2011-2013
+## Technical focus
 
-**Bachelor of Engineering** - Electrical Engineering (67%)
-*Global Institute of Technology, Jaipur, Rajasthan* | 2006-2009
+- **AI agents and LLM systems:** OpenAI Agents SDK, LangGraph, Google ADK, tool calling, RAG, structured outputs, evaluations, and guardrails.
+- **Backend and asynchronous systems:** FastAPI, Node.js, Celery, ARQ, Redis, PostgreSQL, Qdrant, webhooks, and background workers.
+- **Full-stack product engineering:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Drizzle, authentication, dashboards, and APIs.
+- **Applied ML:** PyTorch, TensorFlow, NLP, computer vision, object detection, and image-similarity search.
+- **Deployment:** Docker, Docker Compose, GCP, AWS, Linux, reverse proxies, and production runbooks.
 
----
+## Teaching and content
 
-<p align="center">
-  <i>💡 "Combining academic excellence with industry expertise to build innovative AI solutions"</i>
-</p>
+I share practical AI engineering, chatbot, LLM, and agent-development walkthroughs on [YouTube](https://www.youtube.com/channel/UCOT01XvBSj12xQsANtTeAcQ) and teach applied Dialogflow ES/CX development through my courses.
 
-<p align="center">
-  <i>⚡ Open to exciting freelance projects and collaborations!</i>
-</p>
+## Connect
+
+- Personal website: [rajkapadia.com](https://rajkapadia.com)
+- Company: [trishiai.com](https://trishiai.com)
+- Product: [caloriebuddy.trishiai.com](https://caloriebuddy.trishiai.com)
+- X: [@RaajKapadia](https://x.com/RaajKapadia)
+- LinkedIn: [linkedin.com/in/rajkkapadia](https://www.linkedin.com/in/rajkkapadia/)
+- YouTube: [youtube.com/@rajkkapadia](https://www.youtube.com/channel/UCOT01XvBSj12xQsANtTeAcQ)
+- Email: [raajforyou@gmail.com](mailto:raajforyou@gmail.com)
+
+I am open to AI-agent, conversational-AI, and full-stack LLM product engagements.
